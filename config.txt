@@ -1,0 +1,2 @@
+input_dir=/mnt/c/Users/faithwh14/Desktop/PW1/PW_video/support_0fcc
+input_dir=/mnt/c/Users/faithwh14/Desktop/PW1/PW_video/support_0fcc

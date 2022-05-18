@@ -1,0 +1,16 @@
+1 001.person/1.png
+2 001.person/2.png
+3 001.person/3.png
+4 001.person/4.png
+5 001.person/5.png
+6 001.person/6.png
+7 001.person/7.png
+8 001.person/8.png
+9 002.wheelchair/1.png
+10 002.wheelchair/2.png
+11 002.wheelchair/3.png
+12 002.wheelchair/4.png
+13 002.wheelchair/5.png
+14 002.wheelchair/6.png
+15 002.wheelchair/7.png
+16 002.wheelchair/8.png
